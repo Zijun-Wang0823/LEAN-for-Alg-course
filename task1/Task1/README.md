@@ -1,13 +1,10 @@
-Here’s a clean, copy-paste **README.md** tailored to your Task 1 project.
-
----
 
 # CSE 431/531 — Task 1: Lean Introduction
 
-**Author:** Kelin Luo
+**Author:** Kelin Luo Zijun Wang
 **Course weight:** 12 points (worth 2.5% of final grade)
 
-This project demonstrates basic Lean usage, asymptotic analysis (O/Ω/Θ), and induction proofs. All proofs compile and can be checked by Lean’s kernel.
+The lean file is in task1/Task1/Task1/Lean/Basic.lean
 
 ---
 
