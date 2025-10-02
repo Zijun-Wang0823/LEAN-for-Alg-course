@@ -1,0 +1,7 @@
+.lake/
+build/
+*.olean
+*.trace
+.DS_Store
+.vscode/
+
